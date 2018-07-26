@@ -1,0 +1,7 @@
+C:\D\source\repos\DesignPattern\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\D\source\repos\DesignPattern\SimpleFactory\bin\Debug\SimpleFactory.exe
+C:\D\source\repos\DesignPattern\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\D\source\repos\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.csprojAssemblyReference.cache
+C:\D\source\repos\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\D\source\repos\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\D\source\repos\DesignPattern\SimpleFactory\obj\Debug\SimpleFactory.pdb
